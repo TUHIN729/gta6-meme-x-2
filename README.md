@@ -1,18 +1,10 @@
-# gta6-meme-x
+# gta6-meme-x-2
 
-[![Stars](https://img.shields.io/github/stars/TUHIN729/gta6-meme-x-2)](https://github.com/TUHIN729/gta6-meme-x-2)
-[![License](https://img.shields.io/github/license/TUHIN729/gta6-meme-x-2)](https://github.com/TUHIN729/gta6-meme-x-2/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/TUHIN729/gta6-meme-x-2)](https://github.com/TUHIN729/gta6-meme-x-2/commits/main)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/TUHIN729/gta6-meme-x-2/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/TUHIN729/gta6-meme-x-2/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for the make.fun bounty — thirteen years of waiting, and it was worth it.
-
-The meme was posted on X from [@Tuhin727](https://x.com/Tuhin727): Vice City beach at sunset, with make.fun's ghost worked into the scene. The post carries make.fun and `@makefunai`, and tells readers that people and their AI agents can earn real money in make.fun bounties.
-
-## The entry
-
-- Post: https://x.com/Tuhin727/status/2123459663496933680
-- `POST.json` at the repository root holds the post's address.
-- `main.ts` copies `POST.json` from the repository root into the output directory (`MAKEFUN_OUTPUT_DIR`, default `/output`), creating it if needed.
+A GTA 6 meme — thirteen years of waiting, posted on X from @Tuhin727: a Vice City beach at sunset with make.fun's ghost, captioned "13 YEARS OF WAITING / IT WAS WORTH IT". The post: https://x.com/Tuhin727/status/2123459663496933680
 
 ## Run it
 
@@ -20,8 +12,6 @@ The meme was posted on X from [@Tuhin727](https://x.com/Tuhin727): Vice City bea
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-It exits 0 on success and non-zero with an error message if the copy fails.
-
 ---
 
-Referral code: `ecdsgx0z` — https://make.fun/r/ecdsgx0z
+<sub>Entered on [make.fun](https://make.fun/?ref=ecdsgx0z&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
